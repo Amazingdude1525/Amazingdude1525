@@ -1,5 +1,5 @@
 <!-- Mario Room Animated Banner -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
+<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%"/>
 
 <br/>
 
@@ -7,15 +7,13 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=300&height=45&lines=Prateek+Das" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=2000&pause=500&color=6366F1&center=true&vCenter=true&width=550&height=30&lines=Android+Developer;Game+Developer;AI+%2F+ML+Developer;Software+Developer;Open+Source+Contributor" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=550&height=30&lines=Android+Developer;Game+Developer;AI+%2F+ML+Developer;Software+Developer;Open+Source+Contributor" alt="Typing SVG" /></a>
 
-<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Amazingdude1525&style=flat-square&color=6366f1&label=Profile+Views"/>
 
 </div>
 
-<br/>
 
 ---
 
@@ -122,4 +120,4 @@ Open for hackathons, collaborations, and open source.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,5,30&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
