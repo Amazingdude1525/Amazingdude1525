@@ -27,14 +27,14 @@
 name: Prateek Das
 location: Lucknow, India 📍
 education: B.Tech CSE @ Vellore Institute of Technology, Bhopal
+status: Learning & Building in Public
 ```
 
 - ✨ **Aspiring developer** — learning in public, breaking & fixing things
-- 🎮 Building **game engines** & **mobile apps** for fun
+- 🎮 Building **game engines** & **mobile apps**
 - 🤖 Currently diving into **AI/ML** & **low-level systems**
-- 🏀 When AFK: **Basketball** • **Chess** ♟️ • **MUN** 🎤
-- 🎬 Also into **Animation & VFX** — visuals matter!
-- 💬 **Open to:** Hackathons, Collabs & Cool Conversations
+- 🔧 Exploring **backend development** & system architecture
+- 🌱 **Open to:** Hackathons • Open Source • Collaborations
 
 <br clear="right"/>
 
