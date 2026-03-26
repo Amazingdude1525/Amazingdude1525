@@ -1,5 +1,5 @@
 <!-- Mario Room Animated Banner -->
-<img src="https://camo.githubusercontent.com/cae12fddd9d6982b4b5e38c8fbca06bba70fa045b47295a5abbb6e73c1456677/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
 
 <br/>
 
@@ -7,7 +7,7 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=350&height=50&lines=Prateek+Das" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&width=500&height=30&lines=Mobile+Developer+%7C+Game+Developer+%7C+AI%2FML+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&width=600&height=30&lines=Mobile+Developer+%7C+Game+Developer+%7C+AI%2FML+Enthusiast" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -32,11 +32,11 @@ Currently exploring AI/ML and low-level systems.
 
 ---
 
-<!-- Snake Contribution Graph -->
+<!-- Pac-Man Contribution Graph -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amazingdude1525/Amazingdude1525/output/pacman-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amazingdude1525/Amazingdude1525/output/pacman-contribution-graph.svg"/>
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Amazingdude1525/Amazingdude1525/output/pacman-contribution-graph-dark.svg" width="100%"/>
 </picture>
 
 ---
