@@ -32,8 +32,9 @@ Currently exploring AI/ML and low-level systems.
 
 ---
 
-<!-- Pac-Man Contribution Graph -->
-<img src="https://raw.githubusercontent.com/Amazingdude1525/Amazingdude1525/output/pacman-contribution-graph-dark.svg" width="100%"/>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/pacman.svg" alt="Snake animation" />
+</div>
 
 ---
 
