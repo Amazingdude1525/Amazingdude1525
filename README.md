@@ -2,9 +2,9 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=venom&color=0:00d9ff,50:00ff87,100:ff00ff&height=150&section=header&text=&fontSize=0&animation=twinkling)
 
-# `> prateek.exe`
+# `> prateek.init()`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00FF87&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=500&height=80&lines=%F0%9F%8E%AE+game+dev+%7C+%F0%9F%A4%96+ai+tinkerer;building+engines+%26+breaking+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF87&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=450&height=70&lines=aspiring+dev+%7C+learning+in+public;breaking+things+%26+fixing+them+%F0%9F%94%A7)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
@@ -14,11 +14,11 @@
 
 ```js
 const prateek = {
-    location: "india",
-    code: ["c++", "python", "c#", "typescript"],
-    builds: ["game engines", "ai tools", "mobile apps"],
-    currentlyPlaying: "void engine 🎮",
-    askMeAbout: ["ecs architecture", "procedural generation", "vfx"]
+    status: "student @ vit bhopal",
+    currently: "learning ai/ml & low-level systems",
+    building: ["android apps", "game engines", "random experiments"],
+    interests: ["basketball 🏀", "chess ♟️", "mun 🎤", "vfx 🎬"],
+    motto: "still figuring things out, one bug at a time"
 };
 ```
 
@@ -26,14 +26,15 @@ const prateek = {
 
 <div align="center">
 
-### `// tech i actually use`
+### `// stuff i work with`
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=00ff87)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=00ff87)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=00ff87)
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl&logoColor=00ff87)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=00ff87)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=00ff87)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=00ff87)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=00ff87)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=00ff87)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=00ff87)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=00ff87)
 
 </div>
 
@@ -41,7 +42,7 @@ const prateek = {
 
 <div align="center">
 
-### `// currently building`
+### `// what i'm building`
 
 </div>
 
@@ -49,21 +50,43 @@ const prateek = {
 <tr>
 <td align="center" width="300">
 
-**🎮 void engine**
+**📱 muro**
 ```
-custom 2d engine
-ecs + sdl2 + opengl
-physics & rendering
+minimalist productivity app
+built with kotlin
+work in progress...
 ```
 
 </td>
 <td align="center" width="300">
 
-**📱 muro**
+**📚 classmate**
 ```
-minimalist productivity
-android app
-currently cooking...
+student utility app
+schedules & deadlines
+android/kotlin
+```
+
+</td>
+</tr>
+<tr>
+<td align="center" width="300">
+
+**🎮 void engine**
+```
+custom 2d game engine
+c++ / sdl2 / opengl
+learning low-level stuff
+```
+
+</td>
+<td align="center" width="300">
+
+**🧪 experiments**
+```
+ai/ml projects
+random hackathon builds
+always tinkering
 ```
 
 </td>
@@ -74,7 +97,17 @@ currently cooking...
 
 <div align="center">
 
-### `// stats`
+### `// communities`
+
+[![GDGC](https://img.shields.io/badge/GDGC-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/GDGC-VITB)
+
+</div>
+
+---
+
+<div align="center">
+
+### `// stats (for the nerds)`
 
 <img width="390" src="https://github-readme-stats.vercel.app/api?username=Amazingdude1525&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff87&icon_color=00d9ff&text_color=c9d1d9&ring_color=00ff87"/>
 <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=Amazingdude1525&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00ff87&fire=00d9ff&currStreakLabel=00ff87&sideLabels=00ff87"/>
@@ -85,23 +118,11 @@ currently cooking...
 
 <div align="center">
 
-### `// side quests completed`
+### `// let's connect`
 
-🏆 `iit bombay techfest` - vfx winner
-🎮 `game dev hackathon` - runner up
-🧪 `nsep` - top 10%
-
-</div>
-
----
-
-<div align="center">
-
-### `// connect`
-
+[![LinkedIn](https://img.shields.io/badge/connect-000000?style=for-the-badge&logo=linkedin&logoColor=00d9ff)](https://linkedin.com/in/prateek-das-a45215252/)
+[![Email](https://img.shields.io/badge/collab%20%2F%20hackathons-000000?style=for-the-badge&logo=gmail&logoColor=ff00ff)](mailto:prateekdas5255@gmail.com)
 [![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00ff87)](https://aboutme-dusky-one.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=00d9ff)](https://linkedin.com/in/prateek-das-a45215252/)
-[![Email](https://img.shields.io/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=ff00ff)](mailto:prateekdas5255@gmail.com)
 
 </div>
 
@@ -110,9 +131,9 @@ currently cooking...
 <div align="center">
 
 ```
- _____________________________
-< game over? nah, just loading >
- -----------------------------
+ ________________________________
+< open to collabs & hackathons! >
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
@@ -120,7 +141,7 @@ currently cooking...
                 ||     ||
 ```
 
-<sub>// built with caffeine & compile errors</sub>
+<sub>// powered by curiosity & stackoverflow</sub>
 
 </div>
 
