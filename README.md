@@ -1,5 +1,5 @@
 <!-- Mario Room Animated Banner -->
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="100%"/>
+<img src="https://camo.githubusercontent.com/cae12fddd9d6982b4b5e38c8fbca06bba70fa045b47295a5abbb6e73c1456677/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966" width="100%"/>
 
 <br/>
 
@@ -32,11 +32,11 @@ Currently exploring AI/ML and low-level systems.
 
 ---
 
-<!-- Pac-Man Contribution Graph -->
+<!-- Snake Contribution Graph -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amazingdude1525/Amazingdude1525/output/pacman-contribution-graph-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amazingdude1525/Amazingdude1525/output/pacman-contribution-graph.svg"/>
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Amazingdude1525/Amazingdude1525/output/pacman-contribution-graph-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 ---
