@@ -21,7 +21,7 @@
 <div align="center">
 
 A developer who believes in understanding systems from the ground up.<br/>
-I build engines, tools, and solutions — not just apps.<br/>
+I build engines, tools, and solutions, not just apps.<br/>
 Currently exploring AI/ML and low-level systems.
 
 *Versatility is my strength. Impact is my goal.*
