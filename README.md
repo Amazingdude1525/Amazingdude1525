@@ -78,7 +78,6 @@ Currently exploring AI/ML and low-level systems.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amazingdude1525&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Amazingdude1525&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 ---
